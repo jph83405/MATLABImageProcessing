@@ -1,0 +1,1 @@
+This git repo contains stuff for our image processing project. We will need to finish applying notch filters to the car image. We will also need to build the damage detection algorithm. This can likely easily be done with the edge detection filter (Read fspecial documentation on matlabs website)
